@@ -1,0 +1,14 @@
+Address = mail6.albi.info
+Address = server.albi.xipx.de
+Address = albi.dyndns.info
+Port = 8658
+Subnet = 172.21.84.194/32
+Subnet = 172.21.77.0/24
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA5YpEO0P24u8Tu0BJhDSwrwUJWCZwVxK4T4qDmk48+t1xU0dMy7qs
+UnovyVrlXrlJUu3BY/+CAvOLVGJOaesZELga7oHN/0ea9eSJjybJXoXAOJW3vbia
++7x2fpT4xyBriefxiEiVRdXSdQq/VUkZihvtQ9Hi1+SlH4k9+VpGMj9xJoItjT9H
+4vc705yOnk+/fBCiyI5Jc1Rsgd77LeB4tIFEBGaq2Aa3ZAAftT8cdtch5olz2s6p
+GBdCnQZJHasj9ui7opn6d9KQh/pzoACDn9sncpSEyBw/SPoq5iVQvqIV3ERXETbO
+FEDiPphpTaouk92Z+z/sr1HMCfM9GnQzawIDAQAB
+-----END RSA PUBLIC KEY-----

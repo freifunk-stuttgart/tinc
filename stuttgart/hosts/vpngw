@@ -1,0 +1,11 @@
+Name = vpngw
+Address = vpngw.freifunk-stuttgart.de
+Subnet = 172.21.255.1
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAuLleC4lO7mGNZRjoIr3nmrT3NWiB3HHSxONlD/loT3+hA9HjNOdD
+YRSQTpHRQd05bS8JgqVawCl6F/8344p0zjKPj91FfJxgitc0ykmCKxyFaDVJWxhO
+aZJjWn/hD3DenCM7rXRvRjC0tcIIIFlWdMngj6xkHBygD1+NF8/kU6v+oeijd2PE
+rRB7Oz6+vCqYPJ/92NFQpO1aVC3lPm+pO3LKT0GhzzV4rlpUxjllMXl1NK+LaLfo
+ZmP7UpyxDJ3cGW8F0bQ3MAcv5RFL5e2P7VI5t9gyao+iq7tx7bZCSlWL3Gv/Hh0r
+qyFRbbhAl+s9U/hGUtLzKzrQA+fGgRDbhwIDAQAB
+-----END RSA PUBLIC KEY-----
