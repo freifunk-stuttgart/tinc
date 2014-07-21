@@ -1,4 +1,4 @@
-Address = fb.selfhosted.de
+Address = snord01.selfhosted.de #A-Record->DSL-Rounter mit Portforwarding, AAAA-Record->Router-selbst
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA9q9P72r1ARVegxEKzXArkJvFG2yZv5IF6smtkX30TZYFEyfx6pzQ
 VoklSk94TTCVj/5PT5BqEmJ9cHxBzDQUG4VOPxUhc1yTcu/734qAsSVqWVXTiSf8
