@@ -1,6 +1,5 @@
 Address = mail6.albi.info
 Address = server.albi.xipx.de
-Address = albi.dyndns.info
 Port = 8658
 Subnet = 172.21.84.194/32
 Subnet = 172.21.77.0/24
