@@ -1,0 +1,3 @@
+#!/bin/sh
+ifconfig $INTERFACE 172.21.32.1 netmask 255.255.255.255 #192.0 broadcast 10.190.63.255
+batctl -m bat0 if add $INTERFACE

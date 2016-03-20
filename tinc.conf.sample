@@ -1,0 +1,5 @@
+Name = gw08
+ConnectTo = gw07
+Mode = switch
+Port = 12900
+GraphDumpFile = /tmp/ffsl2s00.gv
