@@ -1,9 +1,0 @@
-Address = snord01.selfhosted.de #A-Record->DSL-Rounter mit Portforwarding, AAAA-Record->Router-selbst
------BEGIN RSA PUBLIC KEY-----
-MIIBCgKCAQEA9q9P72r1ARVegxEKzXArkJvFG2yZv5IF6smtkX30TZYFEyfx6pzQ
-VoklSk94TTCVj/5PT5BqEmJ9cHxBzDQUG4VOPxUhc1yTcu/734qAsSVqWVXTiSf8
-6xqSBBxS3OBxMv2t9naoH8ennKdfLiocaVyX5fqRrbGfoDn9ScTPdZypMssHjH4s
-qvZKeZa/xZEgI0XXjYSZspluPDTkt7RqoZcWNu2W8GH0Ke77ogBr1R2eRwnsExhA
-My6CShpj+AvdW/jfraqilmQL3DEZF/nt96w8yhHNJx8zfO2MAwA4gcVLN1vxvt+2
-I00e1aFcLzyu4c7Tt2eg9EJjvK1ij4NCvQIDAQAB
------END RSA PUBLIC KEY-----
