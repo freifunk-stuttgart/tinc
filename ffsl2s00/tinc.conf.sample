@@ -1,5 +1,6 @@
-Name = gw08
+Name = $HOSTNAME
 ConnectTo = gw07
+ConnectTo = gw08
 ConnectTo = gw082
 Mode = switch
 Port = 12900

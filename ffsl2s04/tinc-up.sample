@@ -1,0 +1,2 @@
+#!/bin/sh
+batctl -m bat04 if add $INTERFACE
