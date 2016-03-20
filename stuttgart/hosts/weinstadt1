@@ -1,9 +1,0 @@
-Address = mail6.albi.info
-Address = albi.dyndns.info
-Port = 8656
-Subnet = 172.21.255.84
------BEGIN RSA PUBLIC KEY-----
-MIGJAoGBAKe+pEuYsGXl6/tUDqc1/ZUE/3jK/IumPIljMBZr+cDB2G2DRGIKzkK1
-1rM9BBusMIrhubmXz35FGY1Fx/CBt4RzbFbujdBdkK0eXm0D9dSNAugXenAsu0bB
-64zkp5WuCQNaYgYXs37u5vAj08/ReY9HPPLcKClsY77L5KB28TEHAgMBAAE=
------END RSA PUBLIC KEY-----
