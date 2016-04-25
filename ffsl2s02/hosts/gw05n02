@@ -2,7 +2,6 @@ PMTUDiscovery = yes
 Digest = sha256
 ClampMSS = yes
 Address = gw05n02.freifunk-stuttgart.de
-Port = 12502
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEA22W3lCWmS5ojMn8o9hLSFtNnpL46AEVs4JAIkPd/zjK/9BHbeD6I
@@ -18,3 +17,4 @@ bcSJpNchoiOb4ckgEyXxqA5Csr08trVe+u22pcTKLbHBXO6hYX2qID3KQyCOmTfw
 tEgLcrQbJvharnRM0URdF4SuWch14n5OVJlKDloKt3vpGrUFZ89zzYkCAwEAAQ==
 -----END RSA PUBLIC KEY-----
 Port = 12522
+Port = 12502
