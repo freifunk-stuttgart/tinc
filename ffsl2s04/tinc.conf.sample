@@ -4,3 +4,4 @@ ConnectTo = gw08
 ConnectTo = gw082
 Mode = switch
 GraphDumpFile = /tmp/tinc.ffsl2s04.dotty
+ConnectTo = gw05n02
