@@ -1,7 +1,5 @@
-Name = $HOSTNAME
+Name = $HOST
 ConnectTo = gw07
 ConnectTo = gw08
 ConnectTo = gw082
 Mode = switch
-Port = 12904
-
