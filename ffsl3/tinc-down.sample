@@ -1,0 +1,2 @@
+#!/bin/sh
+ip rule del iif $INTERFACE table stuttgart priority 7000
