@@ -1,4 +1,4 @@
-address = gw08n06.albi.info
+address = gw08n06.ffs.ovh
 port = 6552
 Subnet = 10.191.254.86
 subnet = fd21:b4dc:4b00::a39:0806
