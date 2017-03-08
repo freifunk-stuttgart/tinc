@@ -1,5 +1,5 @@
 #!/bin/sh
 if [ x"$HOSTNAME" != "x$NODE" ]; then
-  ip route add $SUBNET dev $INTERFACE metric 200 || true
-  ip route add $SUBNET dev $INTERFACE metric 200 table stuttgart || true
+  ip route add $SUBNET dev $INTERFACE metric 512 || true
+  ip route add $SUBNET dev $INTERFACE metric 512 table stuttgart || true
 fi
