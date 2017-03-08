@@ -1,0 +1,3 @@
+#!/bin/sh
+ip route del $SUBNET dev $INTERFACE
+ip route del $SUBNET dev $INTERFACE table stuttgart

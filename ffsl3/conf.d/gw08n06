@@ -1,5 +1,1 @@
-Name = gw08n06
-ConnectTo = gw08n05
-Mode = router
-Port = 6552
-#GraphDumpFile = /tmp/ffsl3.gv
+ConnectTo = gw08n06
