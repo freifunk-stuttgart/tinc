@@ -40,7 +40,7 @@ awk '/inet.* (10.19[01]|172.21|fd21)/ {
   esac
 done | sed 's/^/Subnet = /'
 ) > $TMPFILE
-if [ 0 -lt $(wc -l $TMPFILE) ]; then
+if [ 0 -lt $(wc -l < $TMPFILE) ]; then
   if ! diff /etc/tinc/ffsl3/hosts/$HOSTNAME $TMPFILE; then
     cp $TMPFILE /etc/tinc/ffsl3/hosts/$HOSTNAME
     echo Jetzt aufrufen: systemctl restart tincd@ffsl3.service
