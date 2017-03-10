@@ -1,0 +1,42 @@
+address = gw08n02.freifunk-stuttgart.de
+port = 6552
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEA6nxtBk5QOH0uEv0+dhAO7QjfHmEEUuJGTuZcFxNpNWegHeUz6cOK
+5N/1FMfPKN2EUZLnxMhELs8F548eWDT//ulUHgf0p2BuakT1JaUYpBafRYTjTIJI
+nRw8WjEpy/01L7CSJbM0iBSIcgafvfmujxGN69LCvHK86o68ZdZSjauTjOEXVX+T
+PVStZpF5dsBVLjkBPCQCjG0+a23H6Ure3GG4Zvv5QIesZ2QCJ3SkEdyna2pXwykJ
+N+PCCb/QwgaW2yVoZyZQS++ULlEVyCNN8TuSxLDa+e7CJwwI/ro3GYF8bZIHG2n7
+QxNK97FOHjHoyXbU+HkoQhdB/uv3p3Zo1CelJDrpC15tQLTs6YDQsaXHCDR0Q1gg
+l13NIGAaG4eGB3hzN8d4Pb9PyZa5FV1KC8XnSU6JvpA7vCcHLEeqfLryZXlEsv14
+UJX66/3rVnDgBRpR9PCUzLHcR8eps8ynxJrnXhSGkmFwbQ9v4M6lg1vYyaDGHlId
+x31nuilQnUkdcximKTiMUd+N6CA2HhqgYY3HNPB59IjpA4Mc3Fm/cMqa/t1dbosJ
+QsR4MaImYnpfjfFWjAkfq5INPzKbTDzh0tscYznMJOQkTSCu9GIlJKj1a+Ajn9ib
+XKxHPZQ1F4BELh6835xgUUcqMYxLFZCPtkZhf/PO2LQG6XO+yH9h6t8CAwEAAQ==
+-----END RSA PUBLIC KEY-----
+subnet = 10.191.254.82
+subnet = fd21:b4dc:4b00::a39:0802/128
+subnet = fd21:b4dc:4b00::a38:0802/128
+subnet = fd21:b4dc:4b01::a38:0802/128
+subnet = fd21:b4dc:4b01::/64
+subnet = fd21:b4dc:4b02::a38:0802/128
+subnet = fd21:b4dc:4b02::/64
+subnet = fd21:b4dc:4b03::a38:0802/128
+subnet = fd21:b4dc:4b03::/64
+subnet = fd21:b4dc:4b04::a38:0802/128
+subnet = fd21:b4dc:4b04::/64
+subnet = fd21:b4dc:4b05::a38:0802/128
+subnet = fd21:b4dc:4b05::/64
+subnet = fd21:b4dc:4b06::a38:0802/128
+subnet = fd21:b4dc:4b06::/64
+subnet = fd21:b4dc:4b07::a38:0802/128
+subnet = fd21:b4dc:4b07::/64
+subnet = fd21:b4dc:4b08::a38:0802/128
+subnet = fd21:b4dc:4b08::/64
+subnet = fd21:b4dc:4b09::a38:0802/128
+subnet = fd21:b4dc:4b09::/64
+subnet = fd21:b4dc:4b10::a38:0802/128
+subnet = fd21:b4dc:4b10::/64
+subnet = fd21:b4dc:4b11::a38:0802/128
+subnet = fd21:b4dc:4b11::/64
+subnet = fd21:b4dc:4b12::a38:0802/128
+subnet = fd21:b4dc:4b12::/64
