@@ -1,12 +1,5 @@
 address = gw08n05.ffs.ovh
 port = 6552
-Subnet = 10.191.254.85
-subnet = fd21:b4dc:4b00::a39:0805
-subnet = fd21:b4dc:4b00::a38:0805
-subnet = fd21:b4dc:4b03::a38:0805
-subnet = fd21:b4dc:4b09::a38:0805
-subnet = fd21:b4dc:4b03::/64
-subnet = fd21:b4dc:4b09::/64
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAyLF0S0uQA66aHJjXBBcIyx6RIofIw1cH1yvOUazn02husK53iJb0
 lHzwKo7QkndlOCP+KD5BmyuvTbW5V8VtK9gduluPpL5axyogSksM5OZ7rop6PBfH
@@ -20,3 +13,10 @@ vbUDtp23NkhHc4f5GKY6ewbjb7OE/Z0z7UTBWa6+xEsFkNIPfslhOyfARSrh6FI4
 7IQk2bkCtthg1kY0FuVpM+i0zbF0SjAOF7NbxHGdz/r+VgSf2Yqe21wwrqBR7GDc
 q9iJ3HtqeuTgcTOnXBgQPkg5w8RwIaC4l2Wcab+MnVGS4mKXEZRSm0MCAwEAAQ==
 -----END RSA PUBLIC KEY-----
+subnet = 10.191.254.85
+subnet = fd21:b4dc:4b00::a39:0805/128
+subnet = fd21:b4dc:4b00::a38:0805/128
+subnet = fd21:b4dc:4b03::a38:0805/128
+subnet = fd21:b4dc:4b03::/64
+subnet = fd21:b4dc:4b09::a38:0805/128
+subnet = fd21:b4dc:4b09::/64

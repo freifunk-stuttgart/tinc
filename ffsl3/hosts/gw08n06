@@ -1,26 +1,5 @@
 address = gw08n06.ffs.ovh
 port = 6552
-Subnet = 10.191.254.86
-subnet = fd21:b4dc:4b00::a39:0806
-subnet = fd21:b4dc:4b00::a38:0806
-subnet = fd21:b4dc:4b01::a38:0806
-subnet = fd21:b4dc:4b02::a38:0806
-subnet = fd21:b4dc:4b03::a38:0806
-subnet = fd21:b4dc:4b04::a38:0806
-subnet = fd21:b4dc:4b05::a38:0806
-subnet = fd21:b4dc:4b06::a38:0806
-subnet = fd21:b4dc:4b07::a38:0806
-subnet = fd21:b4dc:4b08::a38:0806
-subnet = fd21:b4dc:4b09::a38:0806
-subnet = fd21:b4dc:4b01::/64
-subnet = fd21:b4dc:4b02::/64
-subnet = fd21:b4dc:4b03::/64
-subnet = fd21:b4dc:4b04::/64
-subnet = fd21:b4dc:4b05::/64
-subnet = fd21:b4dc:4b06::/64
-subnet = fd21:b4dc:4b07::/64
-subnet = fd21:b4dc:4b08::/64
-subnet = fd21:b4dc:4b09::/64
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAqx7ea2vSZEsjMZ/b0GriRnYBu/LXydppSLKPtIrBG9TgXa7xF+py
 JtA46twG93tqWwKX3cbP9ScKpFjgjU3LiS1/PMrFoFMLvvz++Iox5u7mLj9DRh0C
@@ -34,3 +13,30 @@ GvuUfkDf3wOkLCcmao5ogf+X/LJPVEwG8vLaGFgiYTm5HeVQpccIz7oP3kL5SkuH
 Roa6o9gtqebcCnDnYtdvpvZpu8o9TQnOgLvpQ5iTNlgc8f+sJKlYhg3UW7wwLXOw
 wCSnbtyxSB78Mr5zxaymLbJ4kUvbr1HIj2/lXfkGGdCjcyJwMq3m9FECAwEAAQ==
 -----END RSA PUBLIC KEY-----
+subnet = 10.191.254.86
+subnet = fd21:b4dc:4b00::a39:0806/128
+subnet = fd21:b4dc:4b00::a38:0806/128
+subnet = fd21:b4dc:4b01::a38:0806/128
+subnet = fd21:b4dc:4b01::/64
+subnet = fd21:b4dc:4b02::a38:0806/128
+subnet = fd21:b4dc:4b02::/64
+subnet = fd21:b4dc:4b03::a38:0806/128
+subnet = fd21:b4dc:4b03::/64
+subnet = fd21:b4dc:4b04::a38:0806/128
+subnet = fd21:b4dc:4b04::/64
+subnet = fd21:b4dc:4b05::a38:0806/128
+subnet = fd21:b4dc:4b05::/64
+subnet = fd21:b4dc:4b06::a38:0806/128
+subnet = fd21:b4dc:4b06::/64
+subnet = fd21:b4dc:4b07::a38:0806/128
+subnet = fd21:b4dc:4b07::/64
+subnet = fd21:b4dc:4b08::a38:0806/128
+subnet = fd21:b4dc:4b08::/64
+subnet = fd21:b4dc:4b09::a38:0806/128
+subnet = fd21:b4dc:4b09::/64
+subnet = fd21:b4dc:4b10::a38:0806/128
+subnet = fd21:b4dc:4b10::/64
+subnet = fd21:b4dc:4b11::a38:0806/128
+subnet = fd21:b4dc:4b11::/64
+subnet = fd21:b4dc:4b12::a38:0806/128
+subnet = fd21:b4dc:4b12::/64
