@@ -1,0 +1,19 @@
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAvMb7zs9nPEm/SdAT/LTefUbRJ3ornaf1NXAUxJ34/ckIoGjkxy6n
+SF6nZM/3aVq904rNN3H51A9wCYqFSJuXhs6a0ZRM1rWqEpkj/o3H05+7HchPbdVW
+OQs6t89mFaQrX7jTWOkm6QXP6PUXhISu4lCZx+KWQC8Pz3AmaBhSWfU1F/QHKpkM
+M4K5CqyWTTKIeGD7CsCu60f6WINV2ih9DZClExsGItFU498st7ei4Gr5Vg2QT1b/
+zwTeWz3lV2MM2+3IyCD1yxCTLZZKj91StPgvHg+Eem2a+aT7O//327616Ix7/9yL
+TAU8wEuPdoN5Spzk//WD2alGAEgvxBEaHwIDAQAB
+-----END RSA PUBLIC KEY-----
+PMTUDiscovery = yes
+Digest = sha256
+ClampMSS = yes
+Address = netinfo.freifunk-stuttgart.de
+Port = 11001
+Subnet = 10.191.255.243
+Subnet = 10.191.255.0/24
+Subnet = fd21:b4dc:4b00::/64
+Subnet = fd21:b4dc:4b00::/64
+Subnet = fd21:b4dc:4b00::a38:1
+Subnet = fd21:b4dc:4b00::a38:102

@@ -1,0 +1,14 @@
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA81SfhkZaJ24/k+5xUoLHoaP4Tp3euw/AnwAmemeUwCO8X6lWwh8R
+iewK037oHHiHXHDiuZFDJmpZbM7MBxjZG+axpR5XtK3IVqlMevBCNx2fQUN0THQ8
+LiTmHHidepeVGBFV8x/dqqYJh89U7S18fbzKuT2Esx6Fg4Orz0VP8l3XpG/MXxBg
+M43zq3nqD155dWAUI1fJTaneMpWh8NOb9f4Rif/FgyIcMbVfLRRB8dTfBNhimPUw
+aMsvJJxUtBNfvXz4LCiJZm/VusIyKI/1v5LRFR/9vvRh82Rs8AWSN1Vj+hjzITbK
+vOWBc1eyBIPQ8TuNj2REAV5TeZAvqXfewwIDAQAB
+-----END RSA PUBLIC KEY-----
+PMTUDiscovery = yes
+Digest = sha256
+ClampMSS = yes
+Address = gw01n03.freifunk-stuttgart.de
+Port = 11001
+
