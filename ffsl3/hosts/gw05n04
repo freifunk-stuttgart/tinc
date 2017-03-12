@@ -14,3 +14,29 @@ Sfo6CU/9e4z2Um8BTtGw/V6vQqXdw3sjREK6xdG4V6sn22FjTV5XVlmzWWN9Bw+a
 kTHsrNKMXVYXXSHTeaGAcK4+43AGyyZ5rs+HzHV/jQEUL+9AzVw1i0RrxRAznYmV
 CsbZpHbRW9kIFbvbeeI1JZgnm4zBg6C0JcTyoocB5QFW00uj5FbVobcCAwEAAQ==
 -----END RSA PUBLIC KEY-----
+Subnet = 10.190.0.54
+Subnet = 10.190.0.0/21
+Subnet = 10.190.16.54
+Subnet = 10.190.16.0/21
+Subnet = 10.190.24.54
+Subnet = 10.190.24.0/21
+Subnet = 10.190.8.54
+Subnet = 10.190.8.0/21
+Subnet = 10.191.254.54
+Subnet = 10.191.254.0/24
+Subnet = 10.191.255.54
+Subnet = 10.191.255.0/24
+Subnet = 172.21.20.4
+Subnet = 172.21.0.0/18
+Subnet = fd21:b4dc:4b00::/64
+Subnet = fd21:b4dc:4b00::a38:54
+Subnet = fd21:b4dc:4b01::/64
+Subnet = fd21:b4dc:4b01::a38:504
+Subnet = fd21:b4dc:4b02::/64
+Subnet = fd21:b4dc:4b02::a38:504
+Subnet = fd21:b4dc:4b03::/64
+Subnet = fd21:b4dc:4b03::a38:504
+Subnet = fd21:b4dc:4b04::/64
+Subnet = fd21:b4dc:4b04::a38:504
+Subnet = fd21:b4dc:4b1e::/64
+Subnet = fd21:b4dc:4b1e::a38:504
