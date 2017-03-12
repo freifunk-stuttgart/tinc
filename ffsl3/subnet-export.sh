@@ -36,6 +36,7 @@ awk '/inet.* (10.19[01]|172.21|fd21)/ {
  }' | sort | while read a; do
   case $a in
     *.*/*) ipcalc $a | awk '$1 ~ /Network/ {print $2}';;
+    10.191.255.*) ;;
     *)     echo $a
   esac
 done | sed 's/^/Subnet = /'
