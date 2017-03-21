@@ -1,0 +1,50 @@
+address = dhcp02.freifunk-stuttgart.de
+port = 6552
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAw1urBaIa1Zge8e2/OrwNrKWkqD5TiiIAQafQbvwEukFPQa5h77a/
+fiFV1ysIBAjbHsW3VCj+Jpls0y5KFGbx6iibayQCLKhKw4ihFb716DDRqTfnTEt7
+DZEKIIaKaXqGnw/dAiFbB84havUJMEPd7j518fayOu+Geu+WHif2nL3VaJjyF+l4
+ZRjQyJhts6KtfUjiqz1sr//W3lswp6Evn4Vzqly9Gal1hOj8vZ8KEdPKJrEqjWQh
+mw0G9xHZIYm+lrGMyuymyhU/cZfHbKDcPsXTGnkZXmTQkDgq9CcRYFwCHtTj+pZI
+m18aacVlptdeltHxa5N0K3hmm2UTPaja+ruqwY/x+jv3zNWfJwYGE/VRQ7ibrwYg
+9AfNtXlvyKKEp1FkI+8loTUJ4vQ+lhaOIfujHVzMRd3Qmm3n1jwb8S61FjsdSDru
+wtq/TzZC4qokK2x7ek5slzNTSu3HEPG+vFk0foIHoF5GHT54qzqC4G90lnytNe+L
+sbxOgC2ggiTxfNDgPJbAGkUSe7XF2M6oaPi04Ch2/Ghjhn9nIhwdBmEiUgaIh/z7
+Y17ro45DQP6pbznYURGXbcvAWOWpuji5ChI7EMg5sJkfF6xg/L1/MEisyyyJmn4t
+pcmkpzGlmd3ETCDCfGh1jJEJAK4+CjVJp74n1zceaoKIY9kq3exmmH8CAwEAAQ==
+-----END RSA PUBLIC KEY-----
+subnet = 10.191.254.252
+subnet = fd21:b4dc:4b00::a39:0252/128
+subnet = fd21:b4dc:4b00::a38:0252/128
+subnet = fd21:b4dc:4b01::a38:0252/128
+subnet = fd21:b4dc:4b01::/64
+subnet = fd21:b4dc:4b02::a38:0252/128
+subnet = fd21:b4dc:4b02::/64
+subnet = fd21:b4dc:4b03::a38:0252/128
+subnet = fd21:b4dc:4b03::/64
+subnet = fd21:b4dc:4b04::a38:0252/128
+subnet = fd21:b4dc:4b04::/64
+subnet = fd21:b4dc:4b05::a38:0252/128
+subnet = fd21:b4dc:4b05::/64
+subnet = fd21:b4dc:4b06::a38:0252/128
+subnet = fd21:b4dc:4b06::/64
+subnet = fd21:b4dc:4b07::a38:0252/128
+subnet = fd21:b4dc:4b07::/64
+subnet = fd21:b4dc:4b08::a38:0252/128
+subnet = fd21:b4dc:4b08::/64
+subnet = fd21:b4dc:4b09::a38:0252/128
+subnet = fd21:b4dc:4b09::/64
+subnet = fd21:b4dc:4b10::a38:0252/128
+subnet = fd21:b4dc:4b10::/64
+subnet = fd21:b4dc:4b11::a38:0252/128
+subnet = fd21:b4dc:4b11::/64
+subnet = fd21:b4dc:4b12::a38:0252/128
+subnet = fd21:b4dc:4b12::/64
+subnet = fd21:b4dc:4b13::a38:0252/128
+subnet = fd21:b4dc:4b13::/64
+subnet = fd21:b4dc:4b14::a38:0252/128
+subnet = fd21:b4dc:4b14::/64
+subnet = fd21:b4dc:4b15::a38:0252/128
+subnet = fd21:b4dc:4b15::/64
+subnet = fd21:b4dc:4b16::a38:0252/128
+subnet = fd21:b4dc:4b16::/64
