@@ -13,8 +13,8 @@ sbxOgC2ggiTxfNDgPJbAGkUSe7XF2M6oaPi04Ch2/Ghjhn9nIhwdBmEiUgaIh/z7
 Y17ro45DQP6pbznYURGXbcvAWOWpuji5ChI7EMg5sJkfF6xg/L1/MEisyyyJmn4t
 pcmkpzGlmd3ETCDCfGh1jJEJAK4+CjVJp74n1zceaoKIY9kq3exmmH8CAwEAAQ==
 -----END RSA PUBLIC KEY-----
-subnet = 10.191.255.252/32#5
-subnet = fd21:b4dc:4b00::a38:0252/128#5
+subnet = 10.191.255.252/32
+subnet = fd21:b4dc:4b00::a38:0252/128
 subnet = fd21:b4dc:4b01::a38:0252/128
 subnet = fd21:b4dc:4b01::/64
 subnet = fd21:b4dc:4b02::a38:0252/128
