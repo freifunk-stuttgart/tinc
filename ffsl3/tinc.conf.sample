@@ -2,3 +2,4 @@ Name = $HOST
 Mode = router
 GraphDumpFile = /tmp/ffsl3.gv
 DecrementTTL = yes
+DeviceType = tap
