@@ -1,4 +1,4 @@
-address = dhcp02.freifunk-stuttgart.de
+address = munin.ffs.ovh
 port = 6552
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEA5lotIglkEPZ0Z5ytWf2SYejS4F0+w8ooLZ+1aPtbDUDS+lc9EiO9
