@@ -1,18 +1,19 @@
+
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAzhRRLgAnR/fFZF3kAuLzHK05ejlwRs0fQrRnEWr05ZDKkjOuIB5h
+Q0E7gQzUOmvm7hb7kMjFkZxrpdGR887u7b3C3bCdlMMvPOyIFypwqAwzWL7TuVaW
+T9MywOTOc5+ZNqVw1d+DtTkVbA+/i2obvKBzUheO/I7brxU8ycn/C8mh5zwOgT0Q
+mvOqkG1swCNFBZ3vvHe7oR6WnnV6plU12N0RAKDDmzdlTL9ysgltbt6kI9YOIibL
+hBSPI0vNEezzJ77mthCXsMqJteJF7nNdpV1fe5vyCmxEQFSV41t4brYVRt0Jth4O
+Z4U43gkV9ei1GjF9U/Ub7+dj5sV7qnKvML0L+BWL7tnEbJB5TH6ABttRlP1Q67SI
+dyO18iCuEyJamyaeYGKwEWmKKa96wA0L56hDqLUGtMEGDgW6fbAjLevMEnxsI7wD
+t0NuuGZSfbFTR9Nn4tkMfXuQm3+0Xhl5l25QsgRQv7eE/NKigh49lAgEdRUydF+E
+OLeutvnhORXeCXnPAh5Eo5mX+fB6VyUQ+PhToxsUN/hOSVKWnGYKyis8g1aX+/z9
+Dc7EcYmPDppc4FHEFdwvZk8khBcxaQ+2VQIAfEdwlFoH3jUWAPSqePkQH8ObvBDU
+p4TBWMNzu4pZS66oPy4C9i2O8Z9GTIJzXgeSXwy/IN4h6GDy88YSjJECAwEAAQ==
+-----END RSA PUBLIC KEY-----
 address = gw08n00.freifunk-stuttgart.de
 port = 6552
------BEGIN RSA PUBLIC KEY-----
-MIICCgKCAgEAyarxylyIVFdfGmeqIYxOpFp05h2pP7OUarOXFG/bMLSCa2eqkMcF
-kqsF8YGFU9JgzpY3CSZ4gHm8OWME5chNOvu4iym9OIQIGND8shkctpYQBycb/U77
-9DLdanq3+7tCHZaU4SpBIkfp1GLOw8p6VaaqrC9xSGT+fL89W3yfuyKS+jubdMhO
-O1CZFHpXSzb8SYJUHmQopLD/24rWgQTKRf9bH9tSQjJNGkIEfVr6LVkRZivphqsl
-Yqs1LjfJi74+rAd+rMkOZHxV0SwTbCr7/iT1s1Yk+KXbaoxf0TAD4FTBEiPIdsBq
-U51PN9IOQRUOoHyr4y8Dk307nu2rLmaCX78TZfmH5hJBgCmeJrLfaa8TeJKrCe2a
-XfUT+OPSMVPfjGIyQFS6uik5h4Lj18gKbi7SmkePmZ5Q1QiPt3XMUh5Fu0d8uUD9
-LIZbb+FJEmi/FdcUoLS0du7PmfIRIhnvA8tvIU0a3nXraLcFnF3X97yJYXE7XXhf
-H3VYBHJKflsgINOtKWI/L05DCFuMun1yp4ptf1ut0JpFMBI3nBjpd0fc6ciEsZxf
-yCLaHHqYAeOEJs96sq5F7kQHJLnjEPrscud7Hov8VJHKrERw7kqpinxDoa0KVN7H
-mjp3mmjI9ajisMnHWUAq8Vvb6Hl3t8CEiioSLxlHIfbtHrpEomRzXyUCAwEAAQ==
------END RSA PUBLIC KEY-----
 subnet = 10.191.255.80/32
 subnet = fd21:b4dc:4b00::a38:0800/128
 subnet = 10.190.0.80/32
@@ -63,3 +64,19 @@ subnet = 10.190.88.80/32
 subnet = 10.190.88.0/21
 subnet = fd21:b4dc:4b12::a38:0800/128
 subnet = fd21:b4dc:4b12::/64
+subnet = 10.190.96.80/32
+subnet = 10.190.96.0/21
+subnet = fd21:b4dc:4b13::a38:0800/128
+subnet = fd21:b4dc:4b13::/64
+subnet = 10.190.104.80/32
+subnet = 10.190.104.0/21
+subnet = fd21:b4dc:4b14::a38:0800/128
+subnet = fd21:b4dc:4b14::/64
+subnet = 10.190.112.80/32
+subnet = 10.190.112.0/21
+subnet = fd21:b4dc:4b15::a38:0800/128
+subnet = fd21:b4dc:4b15::/64
+subnet = 10.190.120.80/32
+subnet = 10.190.120.0/21
+subnet = fd21:b4dc:4b16::a38:0800/128
+subnet = fd21:b4dc:4b16::/64
