@@ -1,4 +1,5 @@
 address = gw08n05.gw.freifunk-stuttgart.de
+address = gw08n05.ffs.ovh
 port = 6552
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAyLF0S0uQA66aHJjXBBcIyx6RIofIw1cH1yvOUazn02husK53iJb0

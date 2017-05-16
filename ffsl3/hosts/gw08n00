@@ -1,4 +1,6 @@
 address = gw08n00.gw.freifunk-stuttgart.de
+address = gw08n00.ffs.ovh
+address = onl02.albi.info
 port = 6552
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAzhRRLgAnR/fFZF3kAuLzHK05ejlwRs0fQrRnEWr05ZDKkjOuIB5h
