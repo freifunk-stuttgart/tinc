@@ -1,4 +1,5 @@
-
+address = gw08n00.ffs.ovh
+port = 6552
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAzhRRLgAnR/fFZF3kAuLzHK05ejlwRs0fQrRnEWr05ZDKkjOuIB5h
 Q0E7gQzUOmvm7hb7kMjFkZxrpdGR887u7b3C3bCdlMMvPOyIFypwqAwzWL7TuVaW
@@ -12,8 +13,6 @@ OLeutvnhORXeCXnPAh5Eo5mX+fB6VyUQ+PhToxsUN/hOSVKWnGYKyis8g1aX+/z9
 Dc7EcYmPDppc4FHEFdwvZk8khBcxaQ+2VQIAfEdwlFoH3jUWAPSqePkQH8ObvBDU
 p4TBWMNzu4pZS66oPy4C9i2O8Z9GTIJzXgeSXwy/IN4h6GDy88YSjJECAwEAAQ==
 -----END RSA PUBLIC KEY-----
-address = gw08n00.freifunk-stuttgart.de
-port = 6552
 subnet = 10.191.255.80/32
 subnet = fd21:b4dc:4b00::a38:0800/128
 subnet = 10.190.0.80/32
