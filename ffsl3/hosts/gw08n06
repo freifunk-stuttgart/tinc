@@ -1,3 +1,4 @@
+address = gw08n06.gw.freifunk-stuttgart.de
 address = gw08n06.ffs.ovh
 port = 6552
 -----BEGIN RSA PUBLIC KEY-----
@@ -13,7 +14,6 @@ GvuUfkDf3wOkLCcmao5ogf+X/LJPVEwG8vLaGFgiYTm5HeVQpccIz7oP3kL5SkuH
 Roa6o9gtqebcCnDnYtdvpvZpu8o9TQnOgLvpQ5iTNlgc8f+sJKlYhg3UW7wwLXOw
 wCSnbtyxSB78Mr5zxaymLbJ4kUvbr1HIj2/lXfkGGdCjcyJwMq3m9FECAwEAAQ==
 -----END RSA PUBLIC KEY-----
-address = gw08n06.freifunk-stuttgart.de
 subnet = 10.191.255.86/32
 subnet = fd21:b4dc:4b00::a38:0806/128
 subnet = 10.190.0.86/32
@@ -64,3 +64,19 @@ subnet = 10.190.88.86/32
 subnet = 10.190.88.0/21
 subnet = fd21:b4dc:4b12::a38:0806/128
 subnet = fd21:b4dc:4b12::/64
+subnet = 10.190.96.86/32
+subnet = 10.190.96.0/21
+subnet = fd21:b4dc:4b13::a38:0806/128
+subnet = fd21:b4dc:4b13::/64
+subnet = 10.190.104.86/32
+subnet = 10.190.104.0/21
+subnet = fd21:b4dc:4b14::a38:0806/128
+subnet = fd21:b4dc:4b14::/64
+subnet = 10.190.112.86/32
+subnet = 10.190.112.0/21
+subnet = fd21:b4dc:4b15::a38:0806/128
+subnet = fd21:b4dc:4b15::/64
+subnet = 10.190.120.86/32
+subnet = 10.190.120.0/21
+subnet = fd21:b4dc:4b16::a38:0806/128
+subnet = fd21:b4dc:4b16::/64
