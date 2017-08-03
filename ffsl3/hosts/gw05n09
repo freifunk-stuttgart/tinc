@@ -2,8 +2,12 @@ Digest = sha256
 Address = gw05n09.gw.freifunk-stuttgart.de
 Port = 11059
 Subnet = 10.190.128.59
+Subnet = 10.190.128.0/21
 Subnet = fd21:b4dc:4b16::/64
 Subnet = fd21:b4dc:4b16::a38:509
+Subnet = 10.191.254.59
+Subnet = 10.191.255.59
+Subnet = fd21:b4dc:4b00::a38:509
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEA45JmsRnWLwIvEN23zKKtgd41SrOHCZSFkhk4r3AUkcR0ZfdFbAEZ
