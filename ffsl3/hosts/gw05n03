@@ -1,6 +1,7 @@
 Digest = sha256
-Address = gw05n03.freifunk-stuttgart.de
+Address = gw05n03.gw.freifunk-stuttgart.de
 Port = 11053
+
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAxfT5QV2aZLhf6xLaRq7uEoHbGlzc8WBWtVLUR5l45JIajHqR1lJQ
 cMXnKMMKUay9twoV+RC8zGgpK992jj7jZxAG9pFv9sve+z0XMSPVbK8kUyzp0//x
@@ -14,5 +15,71 @@ Kj0QV1AhHNonpX1ntFNvWLUalW64b1JHAkZMl27f60pQM0Z18CoZouqOdAEHw2jI
 E3KzsUpQm9oJ4VEmbPUmx1Y01H6YlHXDzZUd3gq2MJilizSXkBTD/9JfWg19gyww
 8gTNO93V4mlYyg16tZSXx+07qYhJRfuijoVUWYECylQkkT0IVsathjcCAwEAAQ==
 -----END RSA PUBLIC KEY-----
+Subnet = 10.190.0.53
+Subnet = 10.190.0.0/21
+Subnet = 10.190.104.53
+Subnet = 10.190.104.0/21
+Subnet = 10.190.112.53
+Subnet = 10.190.112.0/21
+Subnet = 10.190.120.53
+Subnet = 10.190.120.0/21
+Subnet = 10.190.16.53
+Subnet = 10.190.16.0/21
+Subnet = 10.190.24.53
+Subnet = 10.190.24.0/21
+Subnet = 10.190.32.53
+Subnet = 10.190.32.0/21
+Subnet = 10.190.40.53
+Subnet = 10.190.40.0/21
+Subnet = 10.190.48.53
+Subnet = 10.190.48.0/21
+Subnet = 10.190.56.53
+Subnet = 10.190.56.0/21
+Subnet = 10.190.64.53
+Subnet = 10.190.64.0/21
+Subnet = 10.190.72.53
+Subnet = 10.190.72.0/21
+Subnet = 10.190.80.53
+Subnet = 10.190.80.0/21
+Subnet = 10.190.8.53
+Subnet = 10.190.8.0/21
+Subnet = 10.190.88.53
+Subnet = 10.190.88.0/21
+Subnet = 10.190.96.53
+Subnet = 10.190.96.0/21
 Subnet = 10.191.254.53
-Subnet = fd21:b4dc:4b1e::a38:503
+Subnet = 10.191.254.0/24
+Subnet = fd21:b4dc:4b00::/64
+Subnet = fd21:b4dc:4b00::a38:53
+Subnet = fd21:b4dc:4b01::/64
+Subnet = fd21:b4dc:4b01::a38:503
+Subnet = fd21:b4dc:4b02::/64
+Subnet = fd21:b4dc:4b02::a38:503
+Subnet = fd21:b4dc:4b03::/64
+Subnet = fd21:b4dc:4b03::a38:503
+Subnet = fd21:b4dc:4b04::/64
+Subnet = fd21:b4dc:4b04::a38:503
+Subnet = fd21:b4dc:4b05::/64
+Subnet = fd21:b4dc:4b05::a38:503
+Subnet = fd21:b4dc:4b06::/64
+Subnet = fd21:b4dc:4b06::a38:503
+Subnet = fd21:b4dc:4b07::/64
+Subnet = fd21:b4dc:4b07::a38:503
+Subnet = fd21:b4dc:4b08::/64
+Subnet = fd21:b4dc:4b08::a38:503
+Subnet = fd21:b4dc:4b09::/64
+Subnet = fd21:b4dc:4b09::a38:503
+Subnet = fd21:b4dc:4b10::/64
+Subnet = fd21:b4dc:4b10::a38:503
+Subnet = fd21:b4dc:4b11::/64
+Subnet = fd21:b4dc:4b11::a38:503
+Subnet = fd21:b4dc:4b12::/64
+Subnet = fd21:b4dc:4b12::a38:503
+Subnet = fd21:b4dc:4b13::/64
+Subnet = fd21:b4dc:4b13::a38:503
+Subnet = fd21:b4dc:4b14::/64
+Subnet = fd21:b4dc:4b14::a38:503
+Subnet = fd21:b4dc:4b15::/64
+Subnet = fd21:b4dc:4b15::a38:503
+Subnet = fd21:b4dc:4b16::/64
+Subnet = fd21:b4dc:4b16::a38:503
