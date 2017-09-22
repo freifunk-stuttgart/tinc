@@ -1,0 +1,21 @@
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAt4FUi36o2oxthqqhlOCtMFroFwx7F4s4oTWcOeWqpUVR/Yke/MFd
+E6Q73kbe5k7gVAvOQka7e2FRs6gc3jtmHRcon5sEG19DDEfWcAwQh/L+tavzQtPm
+HDH+Ff9eejvsN3HTIYv0nPL5G7C8eU4ruWMxA5qyqM4tbBKEHpCW2ZrO8SrYfyB2
+hocxt8dReIJ9ecyPOgCNWU9KdwhmYL+iwOEqL2VLStJYiKT55btRf4RcOrOeSxZA
+2eZMTtP2p6Li52x87gOQVFwQZfTUyYsJxTrF7YZmB8h6NhHKZ4r1GKwGUNUZEShe
+dodhBDvyJL94mfCPXk9EXxfUjp4iPLWd3QIDAQAB
+-----END RSA PUBLIC KEY-----
+# BEGIN ANSIBLE MANAGED BLOCK
+PMTUDiscovery = yes
+Digest = sha256
+ClampMSS = yes
+Address = netinfo2.gw.freifunk-stuttgart.de
+Port = 11001
+Subnet = 10.191.254.233
+Subnet = 10.191.255.233
+Subnet = fd21:b4dc:4b00::/64
+Subnet = fd21:b4dc:4b00::/64
+Subnet = fd21:b4dc:4b00::a38:233
+# END ANSIBLE MANAGED BLOCK
