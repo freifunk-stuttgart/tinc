@@ -15,7 +15,6 @@ Digest = sha256
 Address = gw05n01.freifunk-stuttgart.de
 Port = 11051
 Subnet = 10.191.254.51
-Subnet = 10.191.254.251
 Subnet = 10.191.254.0/24
 Subnet = 10.191.255.51
 Subnet = 10.191.255.251
