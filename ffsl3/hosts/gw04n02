@@ -1,0 +1,24 @@
+Digest = sha256
+Address = gw04n02.gw.freifunk-stuttgart.de
+Port = 11042
+Subnet = 10.190.24.42
+Subnet = 10.190.24.0/21
+Subnet = fd21:b4dc:4b03::/64
+Subnet = fd21:b4dc:4b03::a38:402
+Subnet = 10.191.254.42
+Subnet = 10.191.255.42
+Subnet = fd21:b4dc:4b00::a38:402
+
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAvI1soy5E22pDqCJy+iu0mHm6l1xq8KTowaoMo9U4l/pliGcJ7XrJ
+F4kAD6RJV40bjjLPnRBSoC5P6Kpnh97y2cDX1ciLA2hnayXx5zO1AHTb9ZSboatC
+KeqH/fI3GO4ZWzNlkFv2yFPCSOjqpWF1bBvpcQtCZ4qEv0xO4WQ6UEAWaywoGaD6
+G8GOMNr7fmOjmMiUBs6dd8RKchNh/o6pRbozsCTRqUoNxtujQo5U0zCca80NSdGi
+MVDikvL1WvkjnD9hwU3B19Qs6oYYoAQvg5Cl36YaMkwcL3sAlQvm6vV2/3e2U7nN
+tNFOOxxlVTkPQxUMpzy/V2DfvUBoHRh2/HZtJ2KTi5HxKC/7ARXMhUuST8uet4jQ
+jMjaBjIqDXhURXHnpt1tfkjWqvQEL41O6qI5gnLr2fZSHsnUM7p0/k/oqGICgnI6
+hg6IwnY7X/wgXyObNCp5lQbyjeWckJSKxmdf6PXZGMVTd/bHJFiBoTThOkU/Z0QO
+RuR7lEGGBtPXTwByalxkYSLVD8H8ndVHdZiexbhaKq7o2wuxU7d6gXVtYpzEV7cZ
+MGk8aavuzTxNBtKyAAo1JB31ZVmUv0Fmbe3d/9BCk7lRDeqBIhCk+UGkniv3SHB/
+qHlQ3v90p4+CK6o+2znVao4f3H0N+uiWkl+0AYMbQX6F3fS3LHT1P/ECAwEAAQ==
+-----END RSA PUBLIC KEY-----
