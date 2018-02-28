@@ -1,12 +1,12 @@
 Digest = sha256
 Address = gw04n02.gw.freifunk-stuttgart.de
 Port = 11042
-Subnet = 10.190.24.42
-Subnet = 10.190.24.0/21
+Subnet = 10.190.16.42
+Subnet = 10.190.16.0/21
 Subnet = fd21:b4dc:4b03::/64
 Subnet = fd21:b4dc:4b03::a38:402
-Subnet = 10.190.192.42
-Subnet = 10.190.192.0/21
+Subnet = 10.190.184.42
+Subnet = 10.190.184.0/21
 Subnet = fd21:b4dc:4b24::/64
 Subnet = fd21:b4dc:4b24::a38:402
 Subnet = 10.191.254.42
