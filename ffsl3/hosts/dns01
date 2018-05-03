@@ -1,5 +1,5 @@
 Address = dns01.freifunk-stuttgart.de
-Port = 6653
+Port = 6551
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAtMqtaE+oqHeV5qyh8bvWtv68R+lBtbCcLUDVeh/30pUd4Wdcvu9x
