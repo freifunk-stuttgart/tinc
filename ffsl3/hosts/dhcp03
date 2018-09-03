@@ -12,6 +12,5 @@ ClampMSS = yes
 Address = dhcp03.freifunk-stuttgart.de
 Port = 11001
 Subnet = 10.191.254.253
-Subnet = 10.191.254.0/24
 Subnet = 10.191.255.253
-Subnet = 10.191.255.0/24
+subnet = fd21:b4dc:4b00::a38:253/128
