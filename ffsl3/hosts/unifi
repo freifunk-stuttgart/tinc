@@ -3,6 +3,8 @@ Digest = sha256
 ClampMSS = yes
 Address = unifi.gw.freifunk-stuttgart.de
 Port = 45522
+subnet = 10.191.255.222/32
+subnet = fd21:b4dc:4b00::a38:0222/128
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAoUQHsMpBClqtZwwsz8Ghty1dNcmJU41Gs3gZ3b7MFVZr95LhLs10
 rh27OXLIoH2HgUiMpdOXyb1B7rNsnPrtvXyY5nVoJjF95k3DLTR/rFPoNQZ0yXSK
