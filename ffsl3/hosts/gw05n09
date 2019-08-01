@@ -1,84 +1,24 @@
 Digest = sha256
 Address = gw05n09.gw.freifunk-stuttgart.de
 Port = 11059
-Subnet = 10.190.8.59
-Subnet = 10.190.8.0/21
-Subnet = fd21:b4dc:4b01::/64
-Subnet = fd21:b4dc:4b01::a38:509
-Subnet = 10.190.16.59
-Subnet = 10.190.16.0/21
-Subnet = fd21:b4dc:4b02::/64
-Subnet = fd21:b4dc:4b02::a38:509
-Subnet = 10.190.24.59
-Subnet = 10.190.24.0/21
-Subnet = fd21:b4dc:4b03::/64
-Subnet = fd21:b4dc:4b03::a38:509
-Subnet = 10.190.32.59
-Subnet = 10.190.32.0/21
-Subnet = fd21:b4dc:4b04::/64
-Subnet = fd21:b4dc:4b04::a38:509
-Subnet = 10.190.40.59
-Subnet = 10.190.40.0/21
-Subnet = fd21:b4dc:4b05::/64
-Subnet = fd21:b4dc:4b05::a38:509
-Subnet = 10.190.48.59
-Subnet = 10.190.48.0/21
-Subnet = fd21:b4dc:4b06::/64
-Subnet = fd21:b4dc:4b06::a38:509
 Subnet = 10.190.56.59
 Subnet = 10.190.56.0/21
-Subnet = fd21:b4dc:4b07::/64
-Subnet = fd21:b4dc:4b07::a38:509
-Subnet = 10.190.0.59
-Subnet = 10.190.0.0/21
-Subnet = fd21:b4dc:4b00::/64
-Subnet = fd21:b4dc:4b00::a38:509
-Subnet = 10.190.0.59
-Subnet = 10.190.0.0/21
-Subnet = fd21:b4dc:4b00::/64
-Subnet = fd21:b4dc:4b00::a38:509
-Subnet = 10.190.80.59
-Subnet = 10.190.80.0/21
-Subnet = fd21:b4dc:4b10::/64
-Subnet = fd21:b4dc:4b10::a38:509
-Subnet = 10.190.88.59
-Subnet = 10.190.88.0/21
-Subnet = fd21:b4dc:4b11::/64
-Subnet = fd21:b4dc:4b11::a38:509
-Subnet = 10.190.96.59
-Subnet = 10.190.96.0/21
-Subnet = fd21:b4dc:4b12::/64
-Subnet = fd21:b4dc:4b12::a38:509
-Subnet = 10.190.104.59
-Subnet = 10.190.104.0/21
-Subnet = fd21:b4dc:4b13::/64
-Subnet = fd21:b4dc:4b13::a38:509
-Subnet = 10.190.112.59
-Subnet = 10.190.112.0/21
-Subnet = fd21:b4dc:4b14::/64
-Subnet = fd21:b4dc:4b14::a38:509
-Subnet = 10.190.120.59
-Subnet = 10.190.120.0/21
-Subnet = fd21:b4dc:4b15::/64
-Subnet = fd21:b4dc:4b15::a38:509
-Subnet = 10.190.128.59
-Subnet = 10.190.128.0/21
-Subnet = fd21:b4dc:4b16::/64
-Subnet = fd21:b4dc:4b16::a38:509
+Subnet = fd21:b4dc:4b08::/64
+Subnet = fd21:b4dc:4b08::a38:509
 Subnet = 10.191.254.59
 Subnet = 10.191.255.59
 Subnet = fd21:b4dc:4b00::a38:509
 
 -----BEGIN RSA PUBLIC KEY-----
-MIICCgKCAgEA45JmsRnWLwIvEN23zKKtgd41SrOHCZSFkhk4r3AUkcR0ZfdFbAEZ
-WS2ZXHUCAcAIO4eMn7O0SW8UM61vvegS6JRWqJRcaOxZSHDabUzRlvLAFDKAflG3
-IguvnGxd46NJQHaVKC9AxSCLq174DY9OYqlkOypa+VLEZkkjVqMi7rytvKkLKFsQ
-LApJP99L4zYSQoapi+FA1Pk2TGGE1sqvQZbdFSkO5Vx1s9gKLVSfLjFhpeq6KoZd
-f0/GmQbEgr4yNBPZE9UJRM7VyMaI4y8URqvTctnf6FKkKM5h4zIqx4EZ76U4Ppl1
-Oqj7gQrNBxOMm4glFMW8bM4bPdJke2X//ynYsM3N/AfnhKvp4ulDYusqwEV5WDon
-QOJRDwOlVfbVVkVIXRh6SQXexuB3GbPxeEOKLIw4SnvAF9t/W3ZFh97yJRlmTsQH
-U1XJqvk1S/PQwcw8c8q5+d2Tl/H056uLe0JGIiU5d1nSq3+hn3zVyGOia/fKU/Uj
-UsPuosBkRjLbv8m27iBQ4otoYsEK/k2U+R6/C4OWXuZOcP1Yo1s9jWf5nMIsE99j
-mKHKKmFPoXKOyBs7BAGI9wY9v6tOwv72CH2qTneDE7ao2LQoZxY3jk6fImGvdvpE
-0S4Cv2o/P0KSFgUgz7e6raImOh6xHS0DEQdyYz3kRf5khR34qGZqjHcCAwEAAQ==
+MIICCgKCAgEAyj7O46S3iTLRW+lPW7kNNAVKf6FsfYibFmULDqadLXfHHgLYz7AT
+rJbNuGLYxH9Qflv3+cnQFxfhImNQ00SCQWFTrJ/suTx90T837cy5QyU0AAYsKAB4
+u68bYYUzWr/ZpvoelYmoDXV2gqgzvXpzV6FZZL4PCWlbQRBgjwWno/g+yyiUSgFZ
+06pjF6T6UaXAKlhqn3gOZDSq2m6Q13SHbk0x2Jk7ftOFk2czzxTCa7+0i2h2z6u1
++Ya/cUKWPkC6gb29jOwBDu1EUhb0fFh/lrmHMw2bOOYf3fDDqTaFt8V/GTtkGUFc
+0UPNBQjD5ul05YWxtrMwRJ7TjxlVOxf8wvkosDBnMCPTpJU0FB77W2TYr67BtKe6
+oFtjfDFRu3WW1/y8zlPvLwuaGbQ6Eaw9DB7Q+OXdwo590p3UfR1j1uRLt8SFkAaV
+JjbaCL9And9pEP/iJow+ghA4kFHKtuIKhg7qHfiUf4c1l4QLO1aZp2koPmzz4UDH
+E2WdgxZY589JjzovwhU4ktUifROp9Hfs6HPPnnLapmqQ42CTEr/uQtmg6GUopo7Z
+kH+vFSlxdPvvLM4bt6qX6CKlCZ/6lSUlxK+1rRUUiCXksaZ8pm+QaZiAXXxs3Sxh
+rhLwbNtRwYR0N50c+xU8rjhzzW4T7K4z+Ic/QDrzDDUbRzXF32bh4AECAwEAAQ==
 -----END RSA PUBLIC KEY-----
