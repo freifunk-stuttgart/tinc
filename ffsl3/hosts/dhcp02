@@ -1,5 +1,5 @@
-address = dhcp02.freifunk-stuttgart.de
-port = 6552
+address = dhcp02.ffs.ovh
+port = 6502
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAw1urBaIa1Zge8e2/OrwNrKWkqD5TiiIAQafQbvwEukFPQa5h77a/
 fiFV1ysIBAjbHsW3VCj+Jpls0y5KFGbx6iibayQCLKhKw4ihFb716DDRqTfnTEt7

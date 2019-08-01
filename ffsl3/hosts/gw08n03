@@ -1,0 +1,114 @@
+address = gw08n03.ffs.ovh
+address = gw08n03.gw.freifunk-stuttgart.de
+port = 6552
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAl6Z6qNlx5UytP9dfdijcQXe4ksOrQUulZ2IJ422LSMnbDYQFFrE6
+incU0+dIA9CBo7sPd/BF/LO/zWc9Sk9jX4Ei6yxPmPzRtSDw14H+cjSIViq7a5/B
+ByCJtZSV9WLK0oEvU85hkoCW5mpkgQ2ENZ8ppIKeTESom5YlUtZIyWouRdL4fUro
++P6t2rGLLN58LlHiLaZfadVsbI5TgvDFrPWVfOebMmtHqFzNlLpl+pMUNv3+Kb54
+JZoDeG+F7H2q0qYhCracQD5qMEqtwzrIj/tJ64PHpeuZnVrKycwrGOsku6LgSMzh
+S5COCT2QQ1AH0hwrRgPBLJT8+6k/7dXRRh7oCZpES9BQQAU92Ni6HO9QrLbU8sxS
+AQttHKWjJHtIDEVupc4ABUSDS1bM5C9M0yTQJKBuO1/AhSadWQnGOnfVR1yuQBKY
+MWfMo+cBbF9nLJl1NX3E/h30fmSwEY41QBCPg1DascdttPlAZdQkNkb/u6Wt6y3s
+oK4lwnV363O+Ok1Hdc6HEHtaPPY4gcObP+gol5Giqvxzcbo1SBjAFTm/dEXpdbH1
+oWAMxnw/ubaH0JwLC1A+U3Aa4TZGtdgCpPn6cFJyVCosF1OmZozGpOmbasiKXtG+
+EyyqC7VLy0vX1b8jqUK3lSPr7eEwSfVRymFR5mJw0h2lqloIMNPLeEMCAwEAAQ==
+-----END RSA PUBLIC KEY-----
+subnet = 10.191.255.83/32
+subnet = fd21:b4dc:4b00::a38:0803/128
+subnet = 10.190.0.83/32
+subnet = 10.190.0.0/21
+subnet = fd21:b4dc:4b01::a38:0803/128
+subnet = fd21:b4dc:4b01::/64
+subnet = 10.190.8.83/32
+subnet = 10.190.8.0/21
+subnet = fd21:b4dc:4b02::a38:0803/128
+subnet = fd21:b4dc:4b02::/64
+subnet = 10.190.16.83/32
+subnet = 10.190.16.0/21
+subnet = fd21:b4dc:4b03::a38:0803/128
+subnet = fd21:b4dc:4b03::/64
+subnet = 10.190.24.83/32
+subnet = 10.190.24.0/21
+subnet = fd21:b4dc:4b04::a38:0803/128
+subnet = fd21:b4dc:4b04::/64
+subnet = 10.190.32.83/32
+subnet = 10.190.32.0/21
+subnet = fd21:b4dc:4b05::a38:0803/128
+subnet = fd21:b4dc:4b05::/64
+subnet = 10.190.40.83/32
+subnet = 10.190.40.0/21
+subnet = fd21:b4dc:4b06::a38:0803/128
+subnet = fd21:b4dc:4b06::/64
+subnet = 10.190.48.83/32
+subnet = 10.190.48.0/21
+subnet = fd21:b4dc:4b07::a38:0803/128
+subnet = fd21:b4dc:4b07::/64
+subnet = 10.190.56.83/32
+subnet = 10.190.56.0/21
+subnet = fd21:b4dc:4b08::a38:0803/128
+subnet = fd21:b4dc:4b08::/64
+subnet = 10.190.64.83/32
+subnet = 10.190.64.0/21
+subnet = fd21:b4dc:4b09::a38:0803/128
+subnet = fd21:b4dc:4b09::/64
+subnet = 10.190.72.83/32
+subnet = 10.190.72.0/21
+subnet = fd21:b4dc:4b10::a38:0803/128
+subnet = fd21:b4dc:4b10::/64
+subnet = 10.190.80.83/32
+subnet = 10.190.80.0/21
+subnet = fd21:b4dc:4b11::a38:0803/128
+subnet = fd21:b4dc:4b11::/64
+subnet = 10.190.88.83/32
+subnet = 10.190.88.0/21
+subnet = fd21:b4dc:4b12::a38:0803/128
+subnet = fd21:b4dc:4b12::/64
+subnet = 10.190.96.83/32
+subnet = 10.190.96.0/21
+subnet = fd21:b4dc:4b13::a38:0803/128
+subnet = fd21:b4dc:4b13::/64
+subnet = 10.190.104.83/32
+subnet = 10.190.104.0/21
+subnet = fd21:b4dc:4b14::a38:0803/128
+subnet = fd21:b4dc:4b14::/64
+subnet = 10.190.112.83/32
+subnet = 10.190.112.0/21
+subnet = fd21:b4dc:4b15::a38:0803/128
+subnet = fd21:b4dc:4b15::/64
+subnet = 10.190.120.83/32
+subnet = 10.190.120.0/21
+subnet = fd21:b4dc:4b16::a38:0803/128
+subnet = fd21:b4dc:4b16::/64
+subnet = 10.190.128.83/32
+subnet = 10.190.128.0/21
+subnet = fd21:b4dc:4b17::a38:0803/128
+subnet = fd21:b4dc:4b17::/64
+subnet = 10.190.136.83/32
+subnet = 10.190.136.0/21
+subnet = fd21:b4dc:4b18::a38:0803/128
+subnet = fd21:b4dc:4b18::/64
+subnet = 10.190.144.83/32
+subnet = 10.190.144.0/21
+subnet = fd21:b4dc:4b19::a38:0803/128
+subnet = fd21:b4dc:4b19::/64
+subnet = 10.190.152.83/32
+subnet = 10.190.152.0/21
+subnet = fd21:b4dc:4b20::a38:0803/128
+subnet = fd21:b4dc:4b20::/64
+subnet = 10.190.160.83/32
+subnet = 10.190.160.0/21
+subnet = fd21:b4dc:4b21::a38:0803/128
+subnet = fd21:b4dc:4b21::/64
+subnet = 10.190.168.83/32
+subnet = 10.190.168.0/21
+subnet = fd21:b4dc:4b22::a38:0803/128
+subnet = fd21:b4dc:4b22::/64
+subnet = 10.190.176.83/32
+subnet = 10.190.176.0/21
+subnet = fd21:b4dc:4b23::a38:0803/128
+subnet = fd21:b4dc:4b23::/64
+subnet = 10.190.184.83/32
+subnet = 10.190.184.0/21
+subnet = fd21:b4dc:4b24::a38:0803/128
+subnet = fd21:b4dc:4b24::/64

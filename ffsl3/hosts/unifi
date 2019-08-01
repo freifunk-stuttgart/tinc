@@ -1,0 +1,20 @@
+PMTUDiscovery = yes
+Digest = sha256
+ClampMSS = yes
+Address = unifi.gw.freifunk-stuttgart.de
+Port = 45522
+subnet = 10.191.255.222/32
+subnet = fd21:b4dc:4b00::a38:222/128
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAoUQHsMpBClqtZwwsz8Ghty1dNcmJU41Gs3gZ3b7MFVZr95LhLs10
+rh27OXLIoH2HgUiMpdOXyb1B7rNsnPrtvXyY5nVoJjF95k3DLTR/rFPoNQZ0yXSK
+LCkUPQ2kzztvCtmTnLRzxSXxzbbop3uJ/wv6PgWCs1t0IQFtaq4oeF5BE096NAsR
+Mt/od98C1L+euZVNA4goO8EiBn+0hMNaIuHO/G2UAIFVcfYkJ2+YVMsaW8zklB39
+Ul4bS8yXP1zrBSsQmPj7iSoS8OahMV9gH7FXBB7QcqnRtGzXrFd21pLieCkKnlzA
+7sCA4awtNntzFAiHz8+7aM5H0bM2P0Ypqh4MgtBcn6tMV48H+s6Ju2HKxTUT+2cT
+eY1D7BcDmH5nwjGf/xkFAHliUtKd7zxzF21aKi4hFEVw9r3IYYOi6PyH9JhJvAo/
+dpxpj7HIU6EO+HsCDHC/1FDmdbMt4l/1oqnVGCA5y3qeBhyym1DwV1dmUMEmFHCt
+xSVpHsP9F73K4BfiBUGZmi70KQPrO5yX48DsNJb/Clz590sS4c9AmbQ3EC/bFwg4
+BLqfV31fj1kpsf/sImLAnBm6xB2u1MuzQQsJX+lKHJkmfHYsWrI+wleXnu0EZDme
+U6rZCPSqylAmmA2wunLIyXsyQxD7eu95IczozQHZwH8C8hnYa/vN2vcCAwEAAQ==
+-----END RSA PUBLIC KEY-----

@@ -1,5 +1,5 @@
 address = munin.ffs.ovh
-port = 6552
+port = 6542
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEA5lotIglkEPZ0Z5ytWf2SYejS4F0+w8ooLZ+1aPtbDUDS+lc9EiO9
 U4FH2rkDA0lIqtZ4Dckv92e/398nGQz5OQ2VTUzOwmDk3AozyWvsQ22uU8fnXrs6
