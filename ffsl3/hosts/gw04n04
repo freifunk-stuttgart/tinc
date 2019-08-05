@@ -1,117 +1,19 @@
 
 -----BEGIN RSA PUBLIC KEY-----
-MIICCgKCAgEAtRKPd0ZEs0zgUkUScKMF86iuER7elmNDeyKcIw8wZ0a4Tv8Fpb1q
-KGy+/zZ1f9hQa36fsmFMHIwAkMZTxgeOexjWbWA3/z1KhN+/3+ztrGbFnezChHcT
-6hXvur/jP0BsphJmwEt1iG8F/Vbcz4MvGsUDDuyDwhbt8uJMTVVEH46dn1dlsJxt
-JAYpffkYzDfwN3G4WjZn8RvkXvEVy04PyINXZgLO17UUa17Y0s6HHLvsVLYaHhRF
-IF0cIHm7j05irjo52jBOLxqaLjCFl2+5Dn0rfMR5xaEh6o650gynEpgUhm4jJ9iY
-wzpN7P5FDiQNrP64xnvWx4Hr6/x98C2GWSpyanHmw/vEoDWLDlzK8yGvc18fBUUi
-dD4Fqbhw01S1FHHGQw9oyibGru1w/tC5++6CXCZwM70zjYWeN/ovfRBk3dikdOmE
-DX8woGBuWxZuEHIKd/WQS2PfnGNGQCrLoUbQU3DotDyhOylrpt5coAIAWIDQ/YQr
-1SBp7lt6naOI1oWg7TI1+/56ctvwOIgm+CWSnnENyVMWjArDwto17UHmTwSNXWWy
-WuijuSlveDd1iFcKUSiPy1+fbrONewMbFcYGw8nCHzfMGGYaFa3Xy+qJQSZVbDs3
-H95dLwfWsWwVGLsIXFB9pxXtES+l+2Ot2KfI/FOXWYxbNpAMPqypMlkCAwEAAQ==
+MIICCgKCAgEAu2GiWTOsCOlf3Q6SEkt/+/M9S9hhRBMIjr8sXsp9jJ3VSRCTYysc
+8qpIid637r7l7JaKHYMQ1AI4IRiYiFKy7z/h5V4MaHv9lGLcywkTJoVWSdJDCQ1+
+NWrgeHUrQVOVth7drAEYir60OMwV1XQYavElEtssYnB/dwNaXPW0BUX/u73WdsA6
+CoLXt9P758dgU2X63ZublOv+8zNKrVAvhLpgbwRL2tu+W++OslwrpXJgE6DkAflQ
+5nn5T6EaEOI0dzJ0Us650KcKIK2LcPY8A5QycP74Yyua0UCRktt28rDKA5OSwy4O
+YST76mvr+q5TPDHGT/vjFo8ZW9QR2zCRMRRLoGzZGwR+eLH8FLOGz5TI0vJ8LpPx
+54e6Doe56eiqWAwMIrMfDx4dd1hYdq9X0H4226X36XrzHypz4jRBynv6n9NUIflF
+A/R+FaOtZe3rSLsqNeMkb4AgpSsAwjKjkSno7ATNeOit7FLOJ6Pyljw5bSQXmIJH
+gK9ZHzaV+I4S93b5UG+cmaa4TmECRAUR4L7W8gLJjm1DEmGjHzXEKbFTiZBf3Uxt
+d/FLwyJtwhIcsQ8DrniWcMosFHiAeabQyTaMRVSkYGVvqPTPtV4Gp+3ViLDoPR7x
+GGDu72R7pqfokO1LUNUfj6N5bgubW5/iFmrbc8iLH2E/TulPSDeiPocCAwEAAQ==
 -----END RSA PUBLIC KEY-----
 address = gw04n04.gw.freifunk-stuttgart.de
 port = 6552
-subnet = 10.191.255.44/32
-subnet = fd21:b4dc:4b00::a38:0404/128
-subnet = 10.190.0.44/32
-subnet = 10.190.0.0/21
-subnet = fd21:b4dc:4b01::a38:0404/128
-subnet = fd21:b4dc:4b01::/64
-subnet = 10.190.8.44/32
-subnet = 10.190.8.0/21
-subnet = fd21:b4dc:4b02::a38:0404/128
-subnet = fd21:b4dc:4b02::/64
-subnet = 10.190.16.44/32
-subnet = 10.190.16.0/21
-subnet = fd21:b4dc:4b03::a38:0404/128
-subnet = fd21:b4dc:4b03::/64
-subnet = 10.190.24.44/32
-subnet = 10.190.24.0/21
-subnet = fd21:b4dc:4b04::a38:0404/128
-subnet = fd21:b4dc:4b04::/64
-subnet = 10.190.32.44/32
-subnet = 10.190.32.0/21
-subnet = fd21:b4dc:4b05::a38:0404/128
-subnet = fd21:b4dc:4b05::/64
-subnet = 10.190.40.44/32
-subnet = 10.190.40.0/21
-subnet = fd21:b4dc:4b06::a38:0404/128
-subnet = fd21:b4dc:4b06::/64
-subnet = 10.190.48.44/32
-subnet = 10.190.48.0/21
-subnet = fd21:b4dc:4b07::a38:0404/128
-subnet = fd21:b4dc:4b07::/64
-subnet = 10.190.56.44/32
-subnet = 10.190.56.0/21
-subnet = fd21:b4dc:4b08::a38:0404/128
-subnet = fd21:b4dc:4b08::/64
-subnet = 10.190.64.44/32
-subnet = 10.190.64.0/21
-subnet = fd21:b4dc:4b09::a38:0404/128
-subnet = fd21:b4dc:4b09::/64
-subnet = 10.190.72.44/32
-subnet = 10.190.72.0/21
-subnet = fd21:b4dc:4b10::a38:0404/128
-subnet = fd21:b4dc:4b10::/64
-subnet = 10.190.80.44/32
-subnet = 10.190.80.0/21
-subnet = fd21:b4dc:4b11::a38:0404/128
-subnet = fd21:b4dc:4b11::/64
-subnet = 10.190.88.44/32
-subnet = 10.190.88.0/21
-subnet = fd21:b4dc:4b12::a38:0404/128
-subnet = fd21:b4dc:4b12::/64
-subnet = 10.190.96.44/32
-subnet = 10.190.96.0/21
-subnet = fd21:b4dc:4b13::a38:0404/128
-subnet = fd21:b4dc:4b13::/64
-subnet = 10.190.104.44/32
-subnet = 10.190.104.0/21
-subnet = fd21:b4dc:4b14::a38:0404/128
-subnet = fd21:b4dc:4b14::/64
-subnet = 10.190.112.44/32
-subnet = 10.190.112.0/21
-subnet = fd21:b4dc:4b15::a38:0404/128
-subnet = fd21:b4dc:4b15::/64
-subnet = 10.190.120.44/32
-subnet = 10.190.120.0/21
-subnet = fd21:b4dc:4b16::a38:0404/128
-subnet = fd21:b4dc:4b16::/64
-subnet = 10.190.128.44/32
-subnet = 10.190.128.0/21
-subnet = fd21:b4dc:4b17::a38:0404/128
-subnet = fd21:b4dc:4b17::/64
-subnet = 10.190.136.44/32
-subnet = 10.190.136.0/21
-subnet = fd21:b4dc:4b18::a38:0404/128
-subnet = fd21:b4dc:4b18::/64
-subnet = 10.190.144.44/32
-subnet = 10.190.144.0/21
-subnet = fd21:b4dc:4b19::a38:0404/128
-subnet = fd21:b4dc:4b19::/64
-subnet = 10.190.152.44/32
-subnet = 10.190.152.0/21
-subnet = fd21:b4dc:4b20::a38:0404/128
-subnet = fd21:b4dc:4b20::/64
-subnet = 10.190.160.44/32
-subnet = 10.190.160.0/21
-subnet = fd21:b4dc:4b21::a38:0404/128
-subnet = fd21:b4dc:4b21::/64
-subnet = 10.190.168.44/32
-subnet = 10.190.168.0/21
-subnet = fd21:b4dc:4b22::a38:0404/128
-subnet = fd21:b4dc:4b22::/64
-subnet = 10.190.176.44/32
-subnet = 10.190.176.0/21
-subnet = fd21:b4dc:4b23::a38:0404/128
-subnet = fd21:b4dc:4b23::/64
-subnet = 10.190.184.44/32
-subnet = 10.190.184.0/21
-subnet = fd21:b4dc:4b24::a38:0404/128
-subnet = fd21:b4dc:4b24::/64
 subnet = 10.191.255.44/32
 subnet = fd21:b4dc:4b00::a38:0404/128
 subnet = 10.190.0.44/32
