@@ -12,11 +12,10 @@ LDnmy77DX4LL+syAe9HS/XEiyw/tBKJr6LTyj3CM3M1tLcWnJ9yxz3rTvldXh2hN
 W8RCQqLU2fAXdNcO0K1/kwkIvb2DSSEtRfGFge/fFeTuoYUAacllezECAwEAAQ==
 -----END RSA PUBLIC KEY-----
 Digest = sha256
-Address = gw05n01.freifunk-stuttgart.de
+Address = dhcp01.freifunk-stuttgart.de
 Port = 11051
-Subnet = 10.191.254.51
+Subnet = 10.191.254.251
 Subnet = 10.191.254.0/24
-Subnet = 10.191.255.51
 Subnet = 10.191.255.251
 Subnet = 10.191.255.0/24
 Subnet = fd21:b4dc:4b00::a38:501
