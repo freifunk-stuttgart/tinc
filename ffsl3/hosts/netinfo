@@ -16,5 +16,4 @@ Port = 11001
 Subnet = 10.191.254.243/32
 Subnet = 10.191.255.243/32
 Subnet = fd21:b4dc:4b00::a38:243/128
-Subnet = fd21:b4dc:4b00::a38:1/128
 # END ANSIBLE MANAGED BLOCK
