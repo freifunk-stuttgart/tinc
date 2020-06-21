@@ -10,7 +10,7 @@ PMTUDiscovery = yes
 Digest = sha256
 ClampMSS = yes
 Address = gw01n03.freifunk-stuttgart.de
-Port = 11001
+Port = 16001
 
 Subnet = 10.190.0.13
 Subnet = 10.190.0.0/21
