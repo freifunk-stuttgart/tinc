@@ -1,0 +1,148 @@
+Digest = sha256
+Address = gw09n01.gw.freifunk-stuttgart.de
+Port = 11091
+Subnet = 10.190.0.91
+Subnet = 10.190.0.0/21
+Subnet = fd21:b4dc:4b01::/64
+Subnet = fd21:b4dc:4b01::a38:901
+Subnet = 10.190.8.91
+Subnet = 10.190.8.0/21
+Subnet = fd21:b4dc:4b02::/64
+Subnet = fd21:b4dc:4b02::a38:901
+Subnet = 10.190.16.91
+Subnet = 10.190.16.0/21
+Subnet = fd21:b4dc:4b03::/64
+Subnet = fd21:b4dc:4b03::a38:901
+Subnet = 10.190.24.91
+Subnet = 10.190.24.0/21
+Subnet = fd21:b4dc:4b04::/64
+Subnet = fd21:b4dc:4b04::a38:901
+Subnet = 10.190.32.91
+Subnet = 10.190.32.0/21
+Subnet = fd21:b4dc:4b05::/64
+Subnet = fd21:b4dc:4b05::a38:901
+Subnet = 10.190.40.91
+Subnet = 10.190.40.0/21
+Subnet = fd21:b4dc:4b06::/64
+Subnet = fd21:b4dc:4b06::a38:901
+Subnet = 10.190.48.91
+Subnet = 10.190.48.0/21
+Subnet = fd21:b4dc:4b07::/64
+Subnet = fd21:b4dc:4b07::a38:901
+Subnet = 10.190.56.91
+Subnet = 10.190.56.0/21
+Subnet = fd21:b4dc:4b08::/64
+Subnet = fd21:b4dc:4b08::a38:901
+Subnet = 10.190.64.91
+Subnet = 10.190.64.0/21
+Subnet = fd21:b4dc:4b09::/64
+Subnet = fd21:b4dc:4b09::a38:901
+Subnet = 10.190.72.91
+Subnet = 10.190.72.0/21
+Subnet = fd21:b4dc:4b10::/64
+Subnet = fd21:b4dc:4b10::a38:901
+Subnet = 10.190.80.91
+Subnet = 10.190.80.0/21
+Subnet = fd21:b4dc:4b11::/64
+Subnet = fd21:b4dc:4b11::a38:901
+Subnet = 10.190.88.91
+Subnet = 10.190.88.0/21
+Subnet = fd21:b4dc:4b12::/64
+Subnet = fd21:b4dc:4b12::a38:901
+Subnet = 10.190.96.91
+Subnet = 10.190.96.0/21
+Subnet = fd21:b4dc:4b13::/64
+Subnet = fd21:b4dc:4b13::a38:901
+Subnet = 10.190.104.91
+Subnet = 10.190.104.0/21
+Subnet = fd21:b4dc:4b14::/64
+Subnet = fd21:b4dc:4b14::a38:901
+Subnet = 10.190.112.91
+Subnet = 10.190.112.0/21
+Subnet = fd21:b4dc:4b15::/64
+Subnet = fd21:b4dc:4b15::a38:901
+Subnet = 10.190.120.91
+Subnet = 10.190.120.0/21
+Subnet = fd21:b4dc:4b16::/64
+Subnet = fd21:b4dc:4b16::a38:901
+Subnet = 10.190.128.91
+Subnet = 10.190.128.0/21
+Subnet = fd21:b4dc:4b17::/64
+Subnet = fd21:b4dc:4b17::a38:901
+Subnet = 10.190.136.91
+Subnet = 10.190.136.0/21
+Subnet = fd21:b4dc:4b18::/64
+Subnet = fd21:b4dc:4b18::a38:901
+Subnet = 10.190.144.91
+Subnet = 10.190.144.0/21
+Subnet = fd21:b4dc:4b19::/64
+Subnet = fd21:b4dc:4b19::a38:901
+Subnet = 10.190.152.91
+Subnet = 10.190.152.0/21
+Subnet = fd21:b4dc:4b20::/64
+Subnet = fd21:b4dc:4b20::a38:901
+Subnet = 10.190.160.91
+Subnet = 10.190.160.0/21
+Subnet = fd21:b4dc:4b21::/64
+Subnet = fd21:b4dc:4b21::a38:901
+Subnet = 10.190.168.91
+Subnet = 10.190.168.0/21
+Subnet = fd21:b4dc:4b22::/64
+Subnet = fd21:b4dc:4b22::a38:901
+Subnet = 10.190.176.91
+Subnet = 10.190.176.0/21
+Subnet = fd21:b4dc:4b23::/64
+Subnet = fd21:b4dc:4b23::a38:901
+Subnet = 10.190.184.91
+Subnet = 10.190.184.0/21
+Subnet = fd21:b4dc:4b24::/64
+Subnet = fd21:b4dc:4b24::a38:901
+Subnet = 10.190.192.91
+Subnet = 10.190.192.0/21
+Subnet = fd21:b4dc:4b25::/64
+Subnet = fd21:b4dc:4b25::a38:901
+Subnet = 10.190.200.91
+Subnet = 10.190.200.0/21
+Subnet = fd21:b4dc:4b26::/64
+Subnet = fd21:b4dc:4b26::a38:901
+Subnet = 10.190.208.91
+Subnet = 10.190.208.0/21
+Subnet = fd21:b4dc:4b27::/64
+Subnet = fd21:b4dc:4b27::a38:901
+Subnet = 10.190.216.91
+Subnet = 10.190.216.0/21
+Subnet = fd21:b4dc:4b28::/64
+Subnet = fd21:b4dc:4b28::a38:901
+Subnet = 10.190.224.91
+Subnet = 10.190.224.0/21
+Subnet = fd21:b4dc:4b29::/64
+Subnet = fd21:b4dc:4b29::a38:901
+Subnet = 10.190.232.91
+Subnet = 10.190.232.0/21
+Subnet = fd21:b4dc:4b30::/64
+Subnet = fd21:b4dc:4b30::a38:901
+Subnet = 10.190.240.91
+Subnet = 10.190.240.0/21
+Subnet = fd21:b4dc:4b31::/64
+Subnet = fd21:b4dc:4b31::a38:901
+Subnet = 10.190.248.91
+Subnet = 10.190.248.0/21
+Subnet = fd21:b4dc:4b32::/64
+Subnet = fd21:b4dc:4b32::a38:901
+Subnet = 10.191.254.91
+Subnet = 10.191.255.91
+Subnet = fd21:b4dc:4b00::a38:901
+
+-----BEGIN RSA PUBLIC KEY-----
+MIICCgKCAgEAzuQ5h9fYhJZSy++cKWloros+zYIm1dan96p1CpeXtsvxr0C0iv03
+GeOrBbaaNFsTXykg8AN8PV8ygWKMydQc8D4adt3XZw8yG0tKrbu36ACiXlKrW9b3
+xo1uo1nO9uQc+LuuMMs0N5OSVHvb2JGrzUcc5aa3zucn7bseuGdV8lueGpd5N2kr
+V3p+du03PeZLe0J5itR9C93PeTVkKTSZMqHu6Sl9cK3cEARYeaY4i0aJ/BV1QCbP
+KHxxq0KZIdX8SadwUkjuJpnTn4xVTa8/p+x3Hbgrkc+JZP+WuAuACEITIXzhH4cL
+omuC9JvuLCGmJEARJ6sxlpTWRv06VKyMHdX6IY32ruOfJ7VoHe5Q8O7EQf8xr9mg
+E6KHQM6LtdR2wpAtfqT1PS+HAEsalIXv/eesz3zPD36TvMswzFOa8zqA45ITRTpo
+vz1XcIJOsnjjY8yq8Jid8nAp6PXzfqH63WAtxgGDssQgHst5Nk+jK6Gs7QhhI7Tw
+r2bt8MOqtDNAV5KwDTLAOn7bUZGlE6NIgxbA8n8P9xDlP+Sb9r5uGseRkAjCgpqO
+BNbiykVgE+VNPbp4J3w6qk8t61ZhS3kit5gvuDvg3wyHdJL2Vmgj63ru5mDkvk5Q
+fwqbvR3sUx4V/+qx30DJCkjrBtIpKXPSvqpfnJ9+ebWZlV6E8XTSDg8CAwEAAQ==
+-----END RSA PUBLIC KEY-----
