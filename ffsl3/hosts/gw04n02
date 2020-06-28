@@ -3,6 +3,10 @@ Address = gw04n02.gw.freifunk-stuttgart.de
 Port = 11042
 Subnet = 10.190.0.42
 Subnet = 10.190.0.0/21
+Subnet = 10.191.254.42
+Subnet = 10.191.255.42
+Subnet = fd21:b4dc:4b00::a38:1
+Subnet = fd21:b4dc:4b00::a38:402
 Subnet = fd21:b4dc:4b01::/64
 Subnet = fd21:b4dc:4b01::a38:402
 Subnet = 10.190.8.42
@@ -129,9 +133,6 @@ Subnet = 10.190.248.42
 Subnet = 10.190.248.0/21
 Subnet = fd21:b4dc:4b32::/64
 Subnet = fd21:b4dc:4b32::a38:402
-Subnet = 10.191.254.42
-Subnet = 10.191.255.42
-Subnet = fd21:b4dc:4b00::a38:402
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAvI1soy5E22pDqCJy+iu0mHm6l1xq8KTowaoMo9U4l/pliGcJ7XrJ
