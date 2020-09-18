@@ -13,6 +13,9 @@ kC/O2bG7tQzhPuzacU584bpWyOdGzf8GnpHllX7xgsjvTGCS76tdhYkCAwEAAQ==
 -----END RSA PUBLIC KEY-----
 address = gw04n01.gw.freifunk-stuttgart.de
 port = 6552
+# grafite hat kein ffsl3
+Subnet = 10.191.255.243/32
+
 subnet = 100.100.0.0/16
 subnet = 10.191.255.41/32
 Subnet = fd21:b4dc:4b00::a38:1/128
