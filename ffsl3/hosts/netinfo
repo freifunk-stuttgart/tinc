@@ -14,6 +14,6 @@ ClampMSS = yes
 Address = netinfo.gw.freifunk-stuttgart.de
 Port = 15001
 Subnet = 10.191.254.243/32
-Subnet = 10.191.255.243/32
+# Subnet = 10.191.255.243/32 ist jetzt auf grafite !!
 Subnet = fd21:b4dc:4b00::a38:243/128
 # END ANSIBLE MANAGED BLOCK
