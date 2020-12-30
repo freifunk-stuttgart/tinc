@@ -1,9 +1,6 @@
 Digest = sha256
 Address = gw05n03.gw.freifunk-stuttgart.de
 Port = 11053
-# grafite hat kein ffsl3
-Subnet = 10.191.255.243/32
-
 Subnet = 10.190.0.53
 Subnet = 10.190.0.0/21
 Subnet = fd21:b4dc:4b01::/64
